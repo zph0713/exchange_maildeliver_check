@@ -1,0 +1,18 @@
+#Yaml#
+Account_Info:
+ -
+  username: admin@xxx_exchange_mail.com
+  password: "#"
+ -
+  username: admin@xxx_exchange_mail.co.jp
+  password: 
+ -
+  username: admin@xxx_exchange_mail.com.xx
+  password: 
+ -
+  username: admin@xxx_exchange_mail.com.xx
+  password: 
+ -
+  username: admin@xxx_exchange_mail.com.xx
+  password: 
+
